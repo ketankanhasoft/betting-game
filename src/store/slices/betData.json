@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "teams": [
+      {
+        "name": "India",
+        "price": 3.1
+      },
+      {
+        "name": "Pakistan",
+        "price": 1.9
+      }
+    ],
+    "league": "Asia Cup",
+    "isLive": true,
+    "isToday": false,
+    "date": "03-10-2023",
+    "description": " Game 2 - Winner +5 Markets  "
+  },
+  {
+    "id": 2,
+    "teams": [
+      {
+        "name": "Bangladesh",
+        "price": 2.1
+      },
+      {
+        "name": "Pakistan",
+        "price": 1.9
+      }
+    ],
+    "league": "T20 - T20",
+    "isLive": false,
+    "isToday": true,
+    "date": "03-10-2023",
+    "description": " Game 3 - Winner +5 Markets  "
+  },
+  {
+    "id": 3,
+    "teams": [
+      {
+        "name": "Bangladesh",
+        "price": 2.1
+      },
+      {
+        "name": "Sri Lanka",
+        "price": 1.9
+      }
+    ],
+    "league": "T20 - T20",
+    "isLive": false,
+    "isToday": false,
+    "date": "04-10-2023",
+    "description": " Game 2 - Winner +5 Markets  "
+  },
+  {
+    "id": 4,
+    "teams": [
+      {
+        "name": "Australia",
+        "price": 10.1
+      },
+      {
+        "name": "Pakistan",
+        "price": 2.9
+      }
+    ],
+    "league": "Asia Cup",
+    "isLive": false,
+    "isToday": true,
+    "date": "03-10-2023",
+    "description": " Game 4 - Winner +2 Markets  "
+  },
+  {
+    "id": 5,
+    "teams": [
+      {
+        "name": "New Zealand",
+        "price": 10.5
+      },
+      {
+        "name": "South Africa",
+        "price": 11.9
+      }
+    ],
+    "league": "World Cup",
+    "isLive": false,
+    "isToday": true,
+    "date": "03-10-2023",
+    "description": " Game 2 - Winner +5 Markets  "
+  },
+  {
+    "id": 6,
+    "teams": [
+      {
+        "name": "Afghanistan",
+        "price": 3.18
+      },
+      {
+        "name": "Australia",
+        "price": 6.9
+      }
+    ],
+    "league": "T20 - T20",
+    "isLive": false,
+    "isToday": false,
+    "date": "06-10-2023",
+    "description": " Game 2 - Winner +5 Markets  "
+  },
+  {
+    "id": 7,
+    "teams": [
+      {
+        "name": "India",
+        "price": 4.1
+      },
+      {
+        "name": "Netherlands",
+        "price": 3.9
+      }
+    ],
+    "league": "T20 - T20",
+    "isLive": false,
+    "isToday": false,
+    "date": "07-10-2023",
+    "description": " Game 2 - Winner +5 Markets  "
+  },
+  {
+    "id": 8,
+    "teams": [
+      {
+        "name": "Pakistan",
+        "price": 1.1
+      },
+      {
+        "name": "Hong Kong",
+        "price": 3.9
+      }
+    ],
+    "league": "T20 - T20",
+    "isLive": false,
+    "isToday": false,
+    "date": "08-10-2023",
+    "description": " Game 7 - Winner +5 Markets  "
+  },
+  {
+    "id": 9,
+    "teams": [
+      {
+        "name": "Hong Kong",
+        "price": 2.1
+      },
+      {
+        "name": "Sri Lanka",
+        "price": 1.9
+      }
+    ],
+    "league": "T20 - T20",
+    "isLive": false,
+    "isToday": false,
+    "date": "09-10-2023",
+    "description": " Game 2 - Winner +5 Markets  "
+  },
+  {
+    "id": 10,
+    "teams": [
+      {
+        "name": "Netherlands",
+        "price": 33.1
+      },
+      {
+        "name": "Sri Lanka",
+        "price": 6.9
+      }
+    ],
+    "league": "Asia Cup",
+    "isLive": false,
+    "isToday": false,
+    "date": "10-10-2023",
+    "description": " Game 2 - Winner +5 Markets  "
+  }
+]
